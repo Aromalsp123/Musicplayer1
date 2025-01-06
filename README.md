@@ -1,8 +1,10 @@
 # musicplayer
 
 A new Flutter project.
-
-![Screenshot_20250102_210939](https://github.com/user-attachments/assets/473fe31b-6dd4-4315-a341-2802f69344ea)
+![Screenshot_20250102_210939](https://github.com/user-attachments/assets/4d9db65d-009f-4f6a-b35b-81ba424aee47)
+![Screenshot_20250102_211009](https://github.com/user-attachments/assets/064dd575-fc00-427f-a454-5d44283baa40)
+![Screenshot_20250102_211033](https://github.com/user-attachments/assets/98d6fdf0-f4dd-4b3f-8841-ca3dcf5fb890)
+![Screenshot_20250102_211110](https://github.com/user-attachments/assets/329b8309-0b13-4267-bd74-ad00d81c47be)
 
 ## Getting Started
 
