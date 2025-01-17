@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ![Image](https://github.com/user-attachments/assets/558e7b98-8ebe-4406-95a4-d30920bf2cb9)
-
+Run only Java 17 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
